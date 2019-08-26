@@ -1,5 +1,5 @@
 # Read Me
-These are the Python code for I developed for the Data Analytics Certification Program at University of Texas at Austin.
+These are the Python code I developed for the Data Analytics Certification Program at University of Texas at Austin.
  	
 P4DS4D_05_06_Mian.ipynb was just practicing python code from the Python for Data Science for Dummies chapters 5 & 6.
 
